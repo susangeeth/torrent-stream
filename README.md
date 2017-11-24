@@ -146,7 +146,7 @@ A file in the torrent. They contains the following data
 	length: 424242
 }
 ```
-
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 #### `file.select()`
 
 Selects the file to be downloaded, but at a lower priority than streams.
