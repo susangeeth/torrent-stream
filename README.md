@@ -46,7 +46,7 @@ If you want to fetch a file without creating a stream you should use the `file.s
 
 When you start torrent-stream it will connect to the torrent dht
 and fetch pieces according to the streams you create.
-
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 ## Full API
 
 #### `engine = torrentStream(magnet_link_or_buffer, opts)`
